@@ -39,12 +39,12 @@ Before you can make calls to this API, you need to enable it in the Cloud Platfo
 	“medications”:[
 		{
 			“name”: “metoprolol_tartrate”,
-		 	“dose”: 200.0,
+		 	“dose”: 100.0,
 			“unit”: “MG”
 		},
 		{
 			“name”: “quinapril”,
-			“dose”: 20.0,
+			“dose”: 10.0,
 			“unit”: “MG”
 		},
 		{
