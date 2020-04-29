@@ -55,11 +55,8 @@ Before you can make calls to this API, you need to enable it in the Cloud Platfo
 	],
 	“allergies”:[
 		{
-			“name”: “lisinopril”
+			“name”: “none”
 		},
-		{
-			“name”: “spironolactone”
-		}
 	]
 }
 ````
