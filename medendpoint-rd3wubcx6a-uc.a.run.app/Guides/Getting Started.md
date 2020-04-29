@@ -58,6 +58,7 @@ Before you can make calls to this API, you need to enable it in the Cloud Platfo
 			“name”: “none”
 		},
 	]
+	"nyha_class": 3
 }
 ````
 
