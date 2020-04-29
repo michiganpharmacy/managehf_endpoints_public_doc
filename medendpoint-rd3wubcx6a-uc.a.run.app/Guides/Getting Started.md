@@ -48,8 +48,8 @@ Before you can make calls to this API, you need to enable it in the Cloud Platfo
 			“unit”: “MG”
 		},
 		{
-			“name”: “sacubitril_valsartan”,
-			“dose”: 100.0,
+			“name”: “spironolactone”,
+			“dose”: 25.0,
 			“unit”: “MG”
 		}
 	],
