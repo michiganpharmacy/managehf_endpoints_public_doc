@@ -37,13 +37,29 @@ Before you can make calls to this API, you need to enable it in the Cloud Platfo
 		“hr”: 74
 	},
 	“medications”:[
-		{“name”: “metoprolol_tartrate”, “dose”: 200.0, “unit”: “MG”},
-		{“name”: “quinapril”, “dose”: 21.0, “unit”: “MG”},
-		{“name”: “sacubitril_valsartan”, “dose”: 100.0, “unit”: “MG”}
+		{
+			“name”: “metoprolol_tartrate”,
+		 	“dose”: 200.0,
+			“unit”: “MG”
+		},
+		{
+			“name”: “quinapril”,
+			“dose”: 21.0,
+			“unit”: “MG”
+		},
+		{
+			“name”: “sacubitril_valsartan”,
+			“dose”: 100.0,
+			“unit”: “MG”
+		}
 	],
 	“allergies”:[
-		{“name”: “lisinopril”},
-		{“name”: “spironolactone”}
+		{
+			“name”: “lisinopril”
+		},
+		{
+			“name”: “spironolactone”
+		}
 	]
 }
 ````
