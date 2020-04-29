@@ -22,9 +22,8 @@ Before you can make calls to this API, you need to enable it in the Cloud Platfo
 
  You can use the **Try this API** tool on the right side of the med-opt-stage method page to generate a sample request. An example call to the med-opt-stage method is as following:
 
- 
+
 ````
-```
  {
 	“labs”: {								
 		“potassium”: 3.4,
@@ -37,17 +36,16 @@ Before you can make calls to this API, you need to enable it in the Cloud Platfo
 		“sbp”: 116,
 		“hr”: 74
 	},
-  “medications”:[
-   {“name”: “metoprolol_tartrate”, “dose”: 200.0, “unit”: “MG”},
-   {“name”: “quinapril”, “dose”: 21.0, “unit”: “MG”},
-   {“name”: “sacubitril_valsartan”, “dose”: 100.0, “unit”: “MG”}
+	“medications”:[
+		{“name”: “metoprolol_tartrate”, “dose”: 200.0, “unit”: “MG”},
+		{“name”: “quinapril”, “dose”: 21.0, “unit”: “MG”},
+		{“name”: “sacubitril_valsartan”, “dose”: 100.0, “unit”: “MG”}
 	],
- “allergies”:[
-	    {“name”: “lisinopril”},
-	    {“name”: “spironolactone”}
- ]
+	“allergies”:[
+		{“name”: “lisinopril”},
+		{“name”: “spironolactone”}
+	]
 }
-```
 ````
 
 
