@@ -44,7 +44,7 @@ Before you can make calls to this API, you need to enable it in the Cloud Platfo
 		},
 		{
 			“name”: “quinapril”,
-			“dose”: 21.0,
+			“dose”: 20.0,
 			“unit”: “MG”
 		},
 		{
